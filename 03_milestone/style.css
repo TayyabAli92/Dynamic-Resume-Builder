@@ -81,5 +81,6 @@ button :hover {
 }
 
 #resume-display h2 {
+    text-align: center;
     color: black;
 }
