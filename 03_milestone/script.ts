@@ -17,7 +17,7 @@ form.addEventListener('submit', (event) => {
 
     // Generated the resume content dynamically
     const resumeHTML = `
-    <h2><b>Resume</b></h2>
+    <h2><b>Dynamic Resume Builder</b></h2>
     <h3>Personal Information</h3>
     <p><b>Name:</b> ${name}</p>
     <p><b>Email:</b> ${email}</p>
